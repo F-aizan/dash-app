@@ -1,5 +1,6 @@
 {
   "name": "dash-app",
+  "homepage": "https://f-aizan.github.io/dash-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
